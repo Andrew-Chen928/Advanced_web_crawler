@@ -1,17 +1,26 @@
-fetch ('https://www.upwork.com/o/jobs/browse/')
-response.xpath('//h2/a/text()').extract()
-from scrapy.selector import Selector
-sel = Selector(text=html_doc)
-sel.extract()
-sel.xpath('//p[1]').extract()
-sel.xpath('//p')[0].extract()
-// Note: select start count elements from 1, python start from 0
+start project:
+	scrapy startproject "project name" (same as django)
+	
+generate spiders:
+	scrapy genspider "spider name" "url of the website"
 
-sel.css('h2') // css and xpath both works for selector
+using scrapy shell:
+	scrapy shell (same as django)
 
-To export scraping data to a file:
-Scrapy support three different format: csv, json, xml
-simply runnnig the spider with -o "filename"
+	fetch ('https://www.upwork.com/o/jobs/browse/')
+	response.xpath('//h2/a/text()').extract()
+	from scrapy.selector import Selector
+	sel = Selector(text=html_doc)
+	sel.extract()
+	sel.xpath('//p[1]').extract()
+	sel.xpath('//p')[0].extract()
+	// Note: select start count elements from 1, python start from 0
+
+	sel.css('h2') // css and xpath both works for selector
+
+	To export scraping data to a file:
+	Scrapy support three different format: csv, json, xml
+	simply runnnig the spider with -o "filename"
 
 example:
 	scrapy crawl quotes -o quotes_item.csv 
