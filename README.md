@@ -20,4 +20,8 @@ For a quick demo that how to generate a easy to read graph of your data, I creat
 
 <img src="/eBayCar/wiper_demo.png" alt="demo">
 
-PS: To successfully scraping a https website, don't forget to set up your user agent and a download_delay as well. The purpose of this project is to find an easy and fast solution for data mining and comparison. 
+PS: To successfully scraping websites which good at detect and ban auto-scraping ip like Amazon.com, there are some extra setting and selections you can choose:
+
+1. set up download_delay (about 3 seconds) 
+2. randomly change your user agent: (you can use some tools for example: https://github.com/alecxe/scrapy-fake-useragent) 
+3. Random proxy: check this https://github.com/aivarsk/scrapy-proxies
