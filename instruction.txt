@@ -1,0 +1,12 @@
+For review:
+
+start a project with scrapy:
+scrapy startproject "project name"
+
+create a spider:
+scrapy genspider "spider name" "address"
+
+run the spider:
+scrapy crawl "spider name"
+
+Now let's get selenium involve:
