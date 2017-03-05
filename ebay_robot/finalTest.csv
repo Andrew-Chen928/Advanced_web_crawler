@@ -1,0 +1,610 @@
+oem,price,price human,isMached,note
+57470-SXS-003 57475-SXS-013,N/A,N/A,match!,
+57455-SWY-003,N/A,N/A,match!,
+57470-S9A-013,unknown,10,not,unknown
+57475-S9A-013,unknown,9.96,not,unknown
+57450-S9A-013,unknown,10,not,unknown
+57455-S9A-013,unknown,10,not,unknown
+57455-SAA-902 57455-SAA-903,N/A,N/A,match!,
+57470-SEN-H01,N/A,N/A,match!,
+57475-SEN-H01,N/A,N/A,match!,
+57450-SEN-H01,N/A,N/A,match!,
+57455-SEN-H01,N/A,N/A,match!,
+57450-S84-A52 57450-S4K-A52,unknown,83.61,not,unknown
+57455-S84-A52 57455-S4K-A52,unknown,20.39,not,unknown
+57475-SXS-003,23.95,23.95,match!,non-US
+57450-SXS-003,15,15,match!,
+57455-SXS-003,19.99,19.98,not,non-US
+57470-SWA-013,29.9,26.01,not,non-US
+57470-SWA-003,10,10,match!,non-US
+57475-SWA-003 57475-SWA-013,unknown,134.82,not,unknown
+57450-SWA-003 57450-SWA-013,10.87,10.87,match!,
+57455-SWA-003 57455-SWA-013,unknown,#N/A,#N/A,unknown
+57470-SLN-A01,36,36,match!,non-US
+57475-SLN-A01,29,29,match!,non-US
+57450-SLN-A01,16,16,match!,non-US
+57455-SLN-A01,19.95,19.95,match!,non-US
+57470-TF0-003,10,10,match!,non-US
+57475-TF0-013,10,10,match!,non-US
+57450-TF0-003,12.5,12.5,match!,non-US
+57455-TF0-003,9,9,match!,non-US
+57470-SDR-A01,25,25,match!,non-US
+57475-SDR-A01,129.99,129.99,match!,
+57470-TA0-A02 57470-TL1-G01,unknown,9,not,unknown
+2025403317,unknown,74.5,not,unknown
+2025403217,unknown,74.5,not,unknown
+1635400817,unknown,9.45,not,unknown
+1705400917 5099908AA,unknown,11.88,not,unknown
+2.1054E+19,N/A,#N/A,#N/A,
+2205400417 2215400317,N/A,N/A,match!,
+1705400817 5099909AA,unknown,38,not,unknown
+2025401317,unknown,89.31,not,unknown
+2025401217,unknown,60,not,unknown
+2025402117,unknown,54,not,unknown
+2025402017,unknown,104.5,not,unknown
+1705400517,unknown,73.5,not,unknown
+1705400417,unknown,56.99,not,unknown
+2025402417,21.99,21.99,match!,
+2025402317,21.99,21.99,match!,
+2205400117,unknown,14.77,not,unknown
+1645400717 1644405641,N/A,15.4,not,
+1635401117,10.79,10.79,match!,
+1635401017,9.98,9.98,match!,
+1645400917,unknown,15.4,not,unknown
+1635400717,unknown,11.5,not,unknown
+2105400617,12.69,12.69,match!,non-US
+2105409108,10.77,10.77,match!,non-US
+2105409008,13.99,13.99,match!,non-US
+2205400517 2205401817,unknown,29.29,not,unknown
+2045400117   2115400317,N/A,N/A,match!,
+2215400117,22.98,22.98,match!,
+2215400317,22.76,23.16,not,
+2305401117 2305401217 2305401617,19.99,19.99,match!,
+2305401317 2305401517 2305401917,unknown,#N/A,#N/A,unknown
+2305400717,unknown,19.99,not,unknown
+2035401417,13.99,11.9,not,non-US
+2035401317,11.99,11.99,match!,non-US
+2115401217 2115402417 2115403017,unknown,15.4,not,unknown
+2115402317 2115402917,unknown,15.82,not,unknown
+BJ32-2B372-CC,N/A,N/A,match!,
+1715400217,unknown,15.4,not,unknown
+BJ32-2B372-AD,N/A,N/A,match!,
+1715400117,unknown,15.4,not,unknown
+2035400417,15.99,15.99,match!,non-US
+"30682478, 306824780, 86342380,8634238",N/A,N/A,match!,
+2045400317,19.9,19.9,match!,non-US
+2125402117,unknown,58,not,unknown
+2125400517,130.99,130.99,match!,
+2045401317,unknown,21,not,unknown
+2045400517,39.29,39.29,match!,
+"SSB500102  SSB500100",unknown,12.23,not,unknown
+"SSB500090, SSB500091, SSB500092",unknown,19.99,not,unknown
+SSB500133,10.56,10.56,match!,
+LR013783,unknown,40.98,not,unknown
+LR001057,45.99,45.99,match!,
+"9459066 9472171",N/A,N/A,match!,
+"9496420 94964200 9459256 9472170",N/A,N/A,match!,
+LR001056,39.95,39.95,match!,
+"30682479306824790 307737370307737378634237",N/A,N/A,match!,
+"30748149 307481490",N/A,N/A,match!,
+SSF500021,29.88,29.88,match!,
+SSF500011,unknown,14.5,not,unknown
+BJ32-2B372-BC,45.99,45.99,match!,
+"9475557 94755570",N/A,N/A,match!,
+"30773743 3077374303524257",unknown,N/A,not,unknown
+"30773742 307737420 3524256",unknown,16.91,not,unknown
+"30773740 3077374009467580",unknown,22.4,not,unknown
+"30773738 307737380 9496961",unknown,36.47,not,unknown
+"30773745 307737450 8634248 86342480",unknown,#N/A,#N/A,unknown
+"30773744 307737440 30773744 86342470",unknown,N/A,not,unknown
+"30712095 30773741",unknown,N/A,not,unknown
+30736634,unknown,46,not,unknown
+30736895,48.94,48.94,match!,
+52125003AB,unknown,13.44,not,unknown
+"30648986, 30793635, 307936350, 31274612, 312746120",unknown,#N/A,#N/A,unknown
+56027728,59.99,59.99,match!,
+56027729,69.99,65.99,not,
+56027727,65.99,65.99,match!,
+5142770AA,39.98,39.98,match!,
+056029338AB 056029338AD,N/A,N/A,match!,
+056029339AB 056029339AD,N/A,N/A,match!,
+5175787AA,117.76,120.99,not,
+5179958AA 5179958AB,unknown,22,not,unknown
+5179964AA,57.22,57.22,match!,
+56041308AA,16.62,16.62,match!,non-US
+56041509AA,17.58,17.58,match!,non-US
+05154230AC 05154230AD,unknown,22.94,not,unknown
+56029447AF 56029447AE,unknown,12.99,not,unknown
+68034708AA,101.56,101.56,match!,
+52122426AB 52122426AC 52122426AA,unknown,39.9,not,unknown
+52122425AC 52122425AB,unknown,29.95,not,unknown
+5015882AA,9.99,9.99,match!,
+56044146AB 56044146AA,unknown,23.1,not,unknown
+56044144AA 56044144AD,unknown,13.48,not,unknown
+52060156AD,14.95,14.95,match!,
+68020488AA,unknown,61.3,not,unknown
+05105573AA,unknown,11.88,not,unknown
+68003281AA 68003281AC,13.99,13.99,match!,
+05105064AA 05105064AB,unknown,12.99,not,unknown
+DG804371Y,N/A,N/A,match!,
+05105065AC 05105065AB,unknown,8.99,not,unknown
+05085822AB 05085822AC,unknown,28.09,not,unknown
+05085823AB,24,24,match!,non-US
+8S4Z2C190B 8S432C190AE,N/A,N/A,match!,
+8S4Z2C191B 8S432C216AE,N/A,N/A,match!,
+3M5T2B372BA 3M5T2B372AA,N/A,#N/A,#N/A,
+05105062AC,12.99,12.99,match!,
+05105063AD,unknown,13,not,unknown
+05105062AA,14,14,match!,non-US
+22785574,N/A,N/A,match!,
+05105063AB,unknown,28.56,not,unknown
+05105572AA,10.88,10.88,match!,
+22831244,unknown,15.12,not,unknown
+D6514370XB,68.35,68.35,match!,
+BE8Z2C190A AE8Z2C190A,unknown,#N/A,#N/A,unknown
+BE8Z2C204B,19.04,19.4,not,
+8V5Z2C204A,unknown,31.7,not,unknown
+AE8Z2C204A,36.67,35.3,not,
+DG9Z2C190L,unknown,15.18,not,unknown
+DG9Z2C204B,14.98,14.98,match!,
+DG9Z2C205B,15.88,15.88,match!,
+YS4Z2C190BB YS4Z2C190CB,unknown,45,not,unknown
+YS4Z2B372AA,unknown,19.95,not,unknown
+96626080,unknown,7.8,not,unknown
+19256115  96626078,unknown,6.39,not,unknown
+8S4Z2C204A,29.95,29.95,match!,
+5F9Z2C204AA  7F9Z2C204A  8G1Z2C204A,unknown,32.26,not,unknown
+3M5T2B372BB 3M5T2B372BC,unknown,15,not,unknown
+1S7T2B372AB 1S7T2B372AC 1S7T2B372AD,unknown,7.1,not,unknown
+88969672,unknown,46.94,not,unknown
+88969673,55.5,55.5,match!,
+22831246,unknown,26.33,not,unknown
+22831245,unknown,15.12,not,unknown
+13317205,unknown,15.94,not,unknown
+13323030,unknown,11.98,not,unknown
+12842287,12.29,12.29,match!,
+13329258 12842463  12848538 13412631,N/A,#N/A,#N/A,
+56210-82Z00,N/A,N/A,match!,
+56310-65J00 56310-65J01,N/A,N/A,match!,
+12841556,12,12,match!,non-US
+56210-65J00,N/A,N/A,match!,
+56220-65J00,N/A,N/A,match!,
+56310-78J01,N/A,N/A,match!,
+12841760 23136760,unknown,18.07,not,unknown
+56310-65D00,N/A,N/A,match!,
+56210-65D00,N/A,#N/A,#N/A,
+56220-65D00,N/A,#N/A,#N/A,
+56210-67D00,N/A,N/A,match!,
+96549713,9.88,9.88,match!,
+56310-52D00,N/A,N/A,match!,
+96549712,8.59,8.59,match!,
+96473224 95996129 96200001,unknown,41,not,unknown
+96473223 95996130 96534915,unknown,10.99,not,unknown
+96473222 96959998 96534911,unknown,9.8,not,unknown
+96473221 96959997 96534910,unknown,9.73,not,unknown
+56210-85Z10,N/A,N/A,match!,
+13346945,unknown,7.88,not,unknown
+56210-85Z01,N/A,N/A,match!,
+56220-85Z01 56220-85Z00,N/A,N/A,match!,
+56325-79J00,N/A,N/A,match!,
+56310-79J01 56310-79J00,N/A,0,not,
+56320-79J01 56320-79J00,N/A,0,not,
+12841558,11.9,11.99,not,non-US
+12841616,9.8,9.8,match!,non-US
+56220-79J00,N/A,N/A,match!,
+56320-65J00 56320-65J01,unknown,64.49,not,unknown
+56210-78J00,unknown,74.99,not,unknown
+56310-67D00,273.11,274.11,not,
+56210-52D00,84.3,84.3,match!,
+56220-52D00,unknown,197.26,not,unknown
+56315-79J00,69.95,69.95,match!,
+GJ6A4370XE 8J6A4373X,N/A,N/A,match!,
+56210-79J00,146.91,146.91,match!,
+L2144371YF,93.65,93.65,match!,
+L2144372YF,90.23,90.23,match!,
+L2064371YC,55.53,42.5,not,
+L2064372YC,86.81,86.81,match!,
+L2064373XC,72.76,72.76,match!,
+EG274371YB,93.82,93.82,match!,
+EG274372YB,93.82,93.82,match!,
+EG234371YC,39.95,39.95,match!,
+EG234372YC,49.95,49.95,match!,
+L2064370XB,108.23,108.23,match!,
+EG234373X,49.95,49.95,match!,
+BP4K43711A BP4K43711B,unknown,8.54,not,unknown
+BP4K43701A,9.25,9.25,match!,non-US
+GE7C4371YC,10.95,10.95,match!,
+GE7C4372YC,10.98,10.98,match!,
+B25D4371YB,9.85,9.85,match!,
+B25D4372YB,10.98,10.98,match!,
+B25D4370XG,11.83,11.83,match!,
+B25D4373XG,16,16,match!,non-US
+GJ6A4371YC 8J6A4371YA,unknown,19.99,not,unknown
+GJ6A4372YC 8J6A4372YA,unknown,19.99,not,unknown
+GJ6A4373XE 8J6A4373XB,unknown,13.99,not,unknown
+MR205042 MR977020,unknown,224.09,not,unknown
+MR205041 MR977019,unknown,54.81,not,unknown
+MN113196,49.9,43.41,not,non-US
+MN113195,unknown,36.25,not,unknown
+4670A372,unknown,36.58,not,unknown
+4670A371,26.58,26.58,match!,
+MR569286,unknown,27.7,not,unknown
+MN116243,unknown,11,not,unknown
+4670A368 MR569710,unknown,39.9,not,unknown
+4670A367 MR569709,unknown,24.52,not,unknown
+4670A192,55,55,match!,non-US
+4670A576 4670A032,unknown,9.89,not,unknown
+4670A191,55,55,match!,non-US
+4670A190,12.95,12.95,match!,non-US
+4670A189,12.95,12.95,match!,non-US
+MR493456,20.88,20.88,match!,
+MR493455,20.1,20.1,match!,
+MR569148,19.98,19.98,match!,
+MR569147,29.49,29.49,match!,
+MR527312,unknown,10.18,not,unknown
+MR527311,13.98,13.98,match!,
+4670A578 4670A204,unknown,49,not,unknown
+4670A577 4670A203,56.95,56.95,match!,non-US
+4670A574,219.24,219.24,match!,
+4670A573,277.31,277.31,match!,
+4670A572,344.57,344.57,match!,
+4670A571,333.36,333.36,match!,
+MN116247,unknown,27.6,not,unknown
+4670A582,unknown,11.5,not,unknown
+4670A581,11.99,11.99,match!,non-US
+MN116244,11.19,11.19,match!,
+4670A158 4670A584,unknown,11,not,unknown
+4670A157 4670A583,13.54,13.54,match!,
+4670A580,11.2,11.2,match!,
+4670A579,11,#N/A,#N/A,non-US
+4670A575 4670A031,unknown,9.99,not,unknown
+MR235409,unknown,34.71,not,unknown
+MR249529,unknown,42.4,not,unknown
+47900-4EA0A,N/A,N/A,match!,
+47910-4EA0A,N/A,N/A,match!,
+MR307051,unknown,29.95,not,unknown
+MR307050,unknown,25.2,not,unknown
+MR307039,unknown,27.8,not,unknown
+MR307038,14.98,15.88,not,
+MR307049,23.5,23.5,match!,non-US
+MR334712,24.55,24.55,match!,non-US
+MR307046,18.99,18.99,match!,
+MR407271,14.85,14.85,match!,non-US
+MR407270,13.99,13.99,match!,non-US
+MR493460,unknown,14.75,not,unknown
+MR493459 MR569782,unknown,19.45,not,unknown
+MR961238,10.98,10.98,match!,
+MR961237,13.5,13.5,match!,non-US
+47901-2Y000,N/A,N/A,match!,
+47910-9FF0A,147.4,147.4,match!,
+47910-3J100,unknown,148,not,unknown
+47911-3J600,unknown,62.88,not,unknown
+47900-EA005 47900-9CA5A,unknown,265.25,not,unknown
+47901-EA005 47901-9CA5A,unknown,268.09,not,unknown
+47900-EA002,13.88,13.88,match!,
+47901-EA002,14.43,14.43,match!,
+47910-1MA0B,164.57,164.57,match!,
+47900-3JA0A,N/A,77.43,not,
+47900-AX600,unknown,21.78,not,unknown
+47910-3JA0A,N/A,N/A,match!,
+47901-AX600,30,30,match!,non-US
+47910-AX600 47910-AX610,unknown,35,not,unknown
+47900-0W060,63,63,match!,non-US
+47901-0W060,63,63,match!,non-US
+47900-2Y060,23.99,23.99,match!,non-US
+47901-2Y060,43,43,match!,
+47910-2Y061,unknown,36.98,not,unknown
+47910-EA025,unknown,6.46,not,unknown
+47910-7S025 D7910-ZC30A,N/A,N/A,match!,
+47911-2Y060,152.1,152.1,match!,
+47900-2Y000,unknown,49.99,not,unknown
+47910-ZR00B,N/A,N/A,match!,
+47910-2Y000,13.85,13.85,match!,
+47911-2Y000,14.38,14.38,match!,
+47910-1NP0A  0265008379,N/A,N/A,match!,
+47910-EG000  0265007690,N/A,N/A,match!,
+47901-3JA0A,unknown,149.99,not,unknown
+47900-EG000  0265007714,N/A,N/A,match!,
+47910-JK000  0265008024,N/A,N/A,match!,
+47910-1NF0A  0265008380,N/A,N/A,match!,
+47900-1CA0A 47900-1WW1A,N/A,N/A,match!,
+47901-1CA0A 47901-1CA0C,N/A,N/A,match!,
+47900-3NA0A,25,25,match!,non-US
+47910-3NA0A,35,35,match!,non-US
+47900-EB300,10.89,10.89,match!,
+47901-EB300 47901-EB70A,unknown,17.6,not,unknown
+47910-JK500 0265008025,N/A,N/A,match!,
+47901-7S200,28,28,match!,non-US
+47900-7S025 D7900-ZC30A,unknown,39.9,not,unknown
+47910-1NF0B  0265008381,N/A,N/A,match!,
+47900-AL505,23,23,match!,non-US
+47910-AL505 47910-AL50A,unknown,0,not,unknown
+47911-AL505 47911-AL50A,unknown,0,not,unknown
+47900-1MA0A,37.9,37.9,match!,non-US
+47910-1BU0A  0265008382,N/A,N/A,match!,
+47901-1MA0A,22.48,9.9,not,non-US
+47910-1MA0A,37.99,33.05,not,non-US
+47900-EG000,37.73,37.73,match!,
+47910-1CA0A  0265008219,N/A,N/A,match!,
+47910-JG000,unknown,10.7,not,unknown
+47910-1WW0A,32.9,32.9,match!,non-US
+47910-1CA0B,23,28,not,non-US
+47900-JF00A,65,65,match!,non-US
+47910-JF00A 47910-JF00B,unknown,27,not,unknown
+47910-1DA1A,unknown,#N/A,#N/A,unknown
+47900-JL00A,13.99,13.99,match!,
+47901-JL00A,unknown,10.99,not,unknown
+47900-1BB1A,60,60,match!,non-US
+47901-1BB1A,36,36,match!,non-US
+47900-CG000 47900-CG00A,unknown,21.4,not,unknown
+47910-CG000 47910-CG00A,unknown,9.77,not,unknown
+47900-EL00A,24.92,24.92,match!,
+47901-EL00A,18,18,match!,non-US
+47910-ZR70A,24.99,24.99,match!,
+47910-EL00A,unknown,17.9,not,unknown
+47900-JG200,12.99,12.99,match!,non-US
+47900-JG000,22,22,match!,non-US
+47900-1DA1A,unknown,12.25,not,unknown
+47900-3TA0A,N/A,N/A,match!,
+47900-EQ010 47900-EQ01A,unknown,30.26,not,unknown
+47901-EQ010 47901-EQ01A,unknown,38.79,not,unknown
+47910-EQ010 47910-EQ01A,unknown,27.9,not,unknown
+47911-EQ010 47911-EQ01A,unknown,29.37,not,unknown
+47900-8H300,22.95,22.95,match!,non-US
+47901-8H300,19.99,19.99,match!,non-US
+47910-8H300,14.99,14,not,non-US
+47911-8H300,14,14,match!,non-US
+47900-BR00A,25,25,match!,non-US
+47900-JD000,15,15,match!,non-US
+47910-JD000,12.7,12.7,match!,non-US
+47900-3DA0A,142.44,142.44,match!,
+47901-3DA0A,140.33,140.33,match!,
+47900-9E000,N/A,N/A,match!,
+47910-3DA0A,14.5,14.5,match!,non-US
+47900-ET000 47900-ZT00A,unknown,27.26,not,unknown
+47901-ET000 47901-ZT00A,unknown,25.4,not,unknown
+47901-9E000,N/A,N/A,match!,
+47910-ET000 47910-ZT00A,unknown,12.5,not,unknown
+47911-ET000 47911-ZT00A,unknown,14,not,unknown
+47910-9E000,N/A,N/A,match!,
+47910-3TA0A,140.88,140.88,match!,
+47911-9E000,N/A,N/A,match!,
+47900-7Y000,unknown,8.5,not,unknown
+47900-ZX70A 47900-9N00A,25,25,match!,non-US
+47901-ZX70A 47901-9N00A,unknown,24.98,not,unknown
+47900-JB10A,17.99,17.99,match!,
+47901-7Y000,unknown,9.99,not,unknown
+47900-JA000,18.58,18.58,match!,
+47910-JA000,13.49,13.49,match!,
+47900-8J002,38.95,38.95,match!,
+47901-8J002,20.87,20.87,match!,
+47900-8J000,23,23,match!,non-US
+47901-8J000,25,30,not,non-US
+47910-8J000,12.99,12.99,match!,
+47911-8J000,13.98,13.98,match!,
+47910-CA000,unknown,8.99,not,unknown
+47911-CA000,unknown,8,not,unknown
+47910-CK000,unknown,8.5,not,unknown
+47911-CK000,unknown,9.25,not,unknown
+89545-33020,unknown,10.97,not,unknown
+47910-7Y000,10.96,10.64,not,
+47911-7Y000,10.96,10.96,match!,
+47900-1AA0C,29.99,29.99,match!,
+47901-1AA0C,29.99,29.99,match!,
+47900-1AA0B,315.3,#N/A,#N/A,
+47901-1AA0B,39,39,match!,non-US
+47910-1AA0B,19.49,19.49,match!,
+47900-1AD0A,34.9,#N/A,#N/A,non-US
+47900-1AA0A,12.89,#N/A,#N/A,
+47901-1AA0A,13.6,13.6,match!,
+89516-0E060,N/A,N/A,match!,
+89516-0E070,N/A,N/A,match!,
+89542-0E030,N/A,N/A,match!,
+89543-0E030,N/A,N/A,match!,
+47910-1AA0A,15.5,14,not,non-US
+47900-CA000 47900-CA00A,unknown,11.99,not,unknown
+47901-CA000 47901-CA00A,unknown,13.97,not,unknown
+47900-1AD0B,33,33,match!,non-US
+47910-1JA0B,30,30,match!,non-US
+47900-CK000,10.99,10.99,match!,non-US
+47901-CK000,11.5,11.5,match!,non-US
+47911-ZM00A,12.99,12.99,match!,
+89516-06210,N/A,N/A,match!,
+89516-06220,N/A,N/A,match!,
+89546-33020,10.97,10.97,match!,
+89516-48030,29.84,29.84,match!,
+89516-48040,40.59,40.49,not,
+89545-35030,88,88,match!,non-US
+89546-35030,unknown,57.66,not,unknown
+89545-60030,75,75,match!,non-US
+89546-60030,unknown,57.59,not,unknown
+89542-28100,unknown,130.79,not,unknown
+89542-02120,N/A,N/A,match!,
+89543-28100,unknown,134.9,not,unknown
+89542-12100 89542-02130,N/A,N/A,match!,
+89543-12100 89543-02130,N/A,N/A,match!,
+89542-33100,unknown,109,not,unknown
+89543-33090,15,15,match!,non-US
+89542-06040,183.3,183,not,
+89543-06040,183.3,183,not,
+89542-0E020,unknown,125,not,unknown
+89543-0E020,58,58,match!,non-US
+89545-0C020 89545-0C010,unknown,39.97,not,unknown
+89546-0C020 89546-0C010,34.9,30.36,not,non-US
+89542-08050,186.3,186.3,match!,
+89543-08050,186.3,186.3,match!,
+89542-12080,18.2,18.2,match!,non-US
+89543-12080,19.35,19.35,match!,non-US
+89542-52060 89542-52120,unknown,75,not,unknown
+89543-52060 89543-52120,35,35,match!,non-US
+89542-52030 89542-52050,unknown,14.49,not,unknown
+89543-52030 89543-52050,unknown,15.48,not,unknown
+89543-02120,unknown,137.79,not,unknown
+89542-02090,unknown,24.98,not,unknown
+89543-02090,26.9,26.9,match!,
+89545-35020,12.5,12.5,match!,non-US
+89546-35020,21,21,match!,non-US
+89543-48050,unknown,125,not,unknown
+89542-60050 89542-04020,unknown,8.47,not,unknown
+89543-60050 89543-04020,unknown,9.5,not,unknown
+89516-33050,N/A,N/A,match!,
+89516-47070,47.89,24.98,not,
+89516-47080,44.99,39.14,not,
+89542-47030,15.18,15.18,match!,
+89543-47030,15.18,15.18,match!,
+89545-0E050,22,22,match!,non-US
+89516-33060,N/A,N/A,match!,
+89546-0E040,18.9,18.9,match!,
+89516-33040 89516-06140,N/A,N/A,match!,
+89542-07030,13.99,13.99,match!,
+89543-07030,unknown,26.01,not,unknown
+89542-02050,46.95,46.95,match!,non-US
+89543-02050,29.9,29.9,match!,non-US
+89542-08010,231.07,231.07,match!,
+89543-08010,229.95,229.95,match!,
+89542-08030,17.8,17.8,match!,
+89543-08030,13.18,13.18,match!,
+89516-33010,14.99,14.99,match!,non-US
+89516-33020,14.99,14.99,match!,non-US
+89542-06010 89542-33070,11.18,11.38,not,
+89543-06010 89543-33070,unknown,13.4,not,unknown
+89542-28090,unknown,24.89,not,unknown
+89543-28090,unknown,26,not,unknown
+89542-48040,14,14,match!,non-US
+89543-48040,14,#N/A,#N/A,non-US
+89542-02100,N/A,N/A,match!,
+89543-02100,N/A,N/A,match!,
+89516-33030,26.9,26.8,not,non-US
+89545-42050,N/A,N/A,match!,
+89516-0R040,N/A,N/A,match!,
+89516-0R030,N/A,N/A,match!,
+89542-33090,13.39,13.39,match!,
+89543-33080,13.6,13.6,match!,non-US
+89543-42050 89543-0R010 89543-0R020,N/A,N/A,match!,
+57470-TX6-A01,N/A,N/A,match!,
+89516-06050,22.63,22.63,match!,non-US
+89516-06060,18,#N/A,#N/A,non-US
+57475-TX6-A01,N/A,N/A,match!,
+89542-06030,13.5,13.5,match!,non-US
+89543-06030,18,18,match!,non-US
+89546-30070,13.99,13.99,match!,non-US
+89545-30070,8.99,8.99,match!,
+89516-12010,15.5,15.19,not,non-US
+89516-12020,unknown,20,not,unknown
+89542-12070,unknown,13.97,not,unknown
+89543-12070,9.98,9.98,match!,
+57450-SJC-A01,N/A,N/A,match!,
+89546-42050,185.84,185.83,not,
+57455-SJC-A01,N/A,N/A,match!,
+89545-42040,12.29,12.29,match!,
+89546-42040,11.68,11.68,match!,
+89542-42050 89542-0R010 89542-0R020,unknown,19.54,not,unknown
+89542-52010,11.98,11.98,match!,
+89543-52010,12.73,12.17,not,
+89516-02111,12.77,12.15,not,non-US
+89516-02121,15,15,match!,non-US
+89542-02080,11.87,11.29,not,non-US
+89543-02080,unknown,13.48,not,unknown
+57450-SHJ-A02,N/A,N/A,match!,
+57455-SHJ-A02,N/A,N/A,match!,
+57470-SHJ-A01 57470-SHJ-A02,N/A,N/A,match!,
+57475-SHJ-A01 57475-SHJ-A02,N/A,N/A,match!,
+57450-S9V-A01,67.69,67.69,match!,
+57455-S9V-A01 57455-S9V-A03,unknown,66.78,not,unknown
+57470-S2H-954,N/A,N/A,match!,
+57475-S2H-954,N/A,N/A,match!,
+57450-S3V-A02,36.9,36.9,match!,
+57455-S3V-A11,45.32,45.32,match!,
+57455-S3V-A02,17.99,17.99,match!,
+57450-S0X-A01,17.59,17.59,match!,non-US
+57455-S0X-A01,15.99,15.99,match!,non-US
+57470-SHJ-A05,37.37,37.37,match!,
+57475-SHJ-A05,39.99,34.79,not,non-US
+57450-TJ0-M01,N/A,N/A,match!,
+57455-TJ0-M01,N/A,N/A,match!,
+57450-SHJ-A01,46.43,46.43,match!,
+57455-SHJ-A01,unknown,32,not,unknown
+57470-SZT-G01,N/A,N/A,match!,
+57470-TK8-A01,26.46,26.46,match!,
+57475-TK8-A01,20,20,match!,
+57450-TK8-A01,24.42,24.42,match!,
+57455-TK8-A01,unknown,30.16,not,unknown
+57470-TK4-A02 57470-TK4-A03,N/A,N/A,match!,
+57450-S2H-952,32,32,match!,non-US
+57455-S2H-952,24.99,24.99,match!,non-US
+57470-TM8-A01,69.9,69.9,match!,non-US
+57450-SEP-A01,N/A,N/A,match!,
+57475-TM8-A01,69.9,60.81,not,non-US
+57450-T0G-A01,18.5,18.5,match!,
+57455-T0G-A01,65,56.55,not,non-US
+57470-T0A-A01,11,11,match!,non-US
+57475-T0A-A01,11,11,match!,non-US
+57450-T0A-A01,11,11,match!,non-US
+57455-T0A-A01,11,11,match!,non-US
+57470-TR0-013,60,60,match!,non-US
+57475-TR0-013,60,52.2,not,non-US
+57450-TR3-A02,10,10,match!,non-US
+57455-TR3-A02,10,10,match!,non-US
+57470-SZP-A01,N/A,N/A,match!,
+57475-SZP-A01,N/A,N/A,match!,
+57475-SZT-G01,59,59,match!,non-US
+57475-SZN-A02 57475-SZN-A03,N/A,N/A,match!,
+57450-TK4-A01,69.9,60.81,not,non-US
+57455-TK4-A01,69.9,60.81,not,non-US
+57450-SDA-A02 57450-SDA-A01,unknown,24.82,not,unknown
+57455-SDA-A02 57455-SDA-A01,unknown,10.98,not,unknown
+57470-STX-A01,N/A,#N/A,#N/A,
+57475-STX-A01,N/A,N/A,match!,
+57470-SEP-A01,25,21.75,not,non-US
+57475-SEP-A01,17.5,15.22,not,non-US
+57455-SEP-A01,22,22,match!,non-US
+57450-SMG-E01,N/A,N/A,match!,
+57470-STK-A01,24.31,24.31,match!,
+57475-STK-A01,22,22,match!,non-US
+57450-STK-A01,45,45,match!,non-US
+57455-STK-A01,31.94,31.94,match!,
+57470-SZN-A02,19.99,19.99,match!,
+57470-SZA-A02,35,#N/A,#N/A,non-US
+57475-SZA-A02,23.9,#N/A,#N/A,non-US
+57450-STX-A01,18,14.76,not,non-US
+57455-STX-A01,24.97,24.97,match!,
+57470-SCV-A01,16.95,16.95,match!,
+57475-SCV-A01,16.98,16.98,match!,
+57450-SCV-A01,15.73,15.73,match!,
+57455-SCV-A01,24.98,14.22,not,
+57470-TP6-A01 57470-TP6-A02,unknown,28.95,not,unknown
+57450-TP6-A01,24.95,24.95,match!,
+57455-TP6-A01,24.95,24.95,match!,
+57470-SMG-E02  57475-SMG-E01,unknown,12.45,not,unknown
+57475-SMG-E02  57475-SMG-E01,unknown,42.93,not,unknown
+57455-SMG-E01,19.9,19.9,match!,non-US
+57470-SNE-A51,19.95,17.36,not,non-US
+57475-SNE-A51,28,24.36,not,non-US
+57450-SAA-902 57450-SAA-903,N/A,N/A,match!,
+57450-SNE-A01,16.89,16.89,match!,
+57455-SNE-A01,21,21,match!,non-US
+57450-SVA-A02  57450-SVA-A03,unknown,45,not,unknown
+57455-SVA-A02  57455-SVA-A03,unknown,39.15,not,unknown
+57470-SNA-013 57470-SNA-023,12.99,11.3,not,non-US
+57475-SNA-013 57475-SNA-023,unknown,148.57,not,unknown
+57470-SNA-003,10.97,#N/A,#N/A,
+57475-SNA-003,10.98,#N/A,#N/A,
+57450-SNA-003 57450-SNA-A01,unknown,12.31,not,unknown
+57455-SNA-003 57455-SNA-A01,unknown,10,not,unknown
+57470-SAA-003,32,32,match!,non-US
+57475-SAA-003,29,29,match!,non-US
+57450-SEL-P02,57.27,57.27,match!,non-US
+57455-SEL-P02,35,#N/A,#N/A,non-US
+57450-TA0-A01,10,#N/A,#N/A,non-US
+57455-TA0-A01,10,10,match!,non-US
+57470-SEA-013,unknown,19.15,not,unknown
+57475-SEA-013,9.99,9.99,match!,non-US
+57470-SDA-A03,15,#N/A,#N/A,
+57475-SDA-A03,16.99,#N/A,#N/A,non-US
+57450-SDA-A11,18.67,18.67,match!,
+57455-SDA-A11,56.65,56.65,match!,
+57450-SDC-013 57450-SDH-003,unknown,9.69,not,unknown
+57455-SDC-013 57455-SDH-003,unknown,10.88,not,unknown
+57470-S0K-A53 57470-S84-A53,unknown,14.99,not,unknown
+57475-S0K-A53 57475-S84-A53,unknown,11.49,not,unknown
+57450-S87-A52,10.99,10.99,match!,
