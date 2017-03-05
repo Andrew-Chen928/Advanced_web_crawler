@@ -25,3 +25,6 @@ PS: To successfully scraping websites which good at detect and ban auto-scraping
 1. set up download_delay (about 3 seconds) 
 2. randomly change your user agent: (you can use some tools for example: https://github.com/alecxe/scrapy-fake-useragent) 
 3. Random proxy: check this https://github.com/aivarsk/scrapy-proxies
+
+For the resource of HTML which modified by javascript, consider to use tools like Splash and get the updated resource. Check the example of EbayCar spider
+
